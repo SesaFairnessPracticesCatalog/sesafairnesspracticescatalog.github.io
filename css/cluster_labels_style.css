@@ -1,0 +1,25 @@
+.cluster_label {
+    color: white;
+    padding: 8px;
+    font-family: Arial;
+    margin: 10px;
+    height: min-content;
+    text-align: center;
+    border-radius: 5px;
+    font-size: medium;
+    display: inline-block;
+    object-fit: cover
+    
+  }
+  .i1 {background-color: #66b7fa; } 
+  .i2 {background-color: #2196F3;} 
+  .i3 {background-color: #105c9b;} 
+  
+  
+  .f1 {background-color: #07422d; } 
+  .f2 {background-color: #58ebb5;} 
+  .f3 {background-color: #2e8f6b;} 
+  
+  .e1 {background-color: #e96b75; } 
+  .e2 {background-color: #aa0412;} 
+  .e3 {background-color: #ca3440;} 
